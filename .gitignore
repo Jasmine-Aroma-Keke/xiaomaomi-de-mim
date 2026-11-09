@@ -1,0 +1,10 @@
+.deps/
+.venv/
+__pycache__/
+outputs/
+node_modules/
+web/dist/
+
+web/dist-demo/
+web/.env.local
+web/.env.*.local
